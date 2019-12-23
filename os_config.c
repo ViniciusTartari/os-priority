@@ -1,0 +1,2 @@
+#define OS_SCHED SCHED_PRIO
+
